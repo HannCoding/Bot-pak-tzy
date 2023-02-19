@@ -1,0 +1,61 @@
+{
+  "users": {
+    "6287826495003@s.whatsapp.net": {
+      "name": "Hann",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "62818617578@s.whatsapp.net": {
+      "name": "𝙷𝙰𝙽𝙽4𝚈𝙾𝚄𝚄",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "6287826495003@s.whatsapp.net": {},
+    "120363050044107569@g.us": {
+      "mute": false,
+      "autobugreact": false,
+      "culik": {
+        "status": false,
+        "penculik": "",
+        "member": []
+      }
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6287826495003@s.whatsapp.net": {
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "public": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autobug": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
